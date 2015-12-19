@@ -8,7 +8,7 @@ Loading and preprocessing the data
 ```r
 library(lattice)
 # Set Working Directory and Read the source data
-setwd("C:/Users/PrabhnoorJapman/Documents/Assignments/Reproducible Research/repdata_data_activity")
+setwd("C:/repdata_data_activity")
 activitydata=read.csv("activity.csv")
 ```
 
